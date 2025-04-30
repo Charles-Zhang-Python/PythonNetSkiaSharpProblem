@@ -9,3 +9,7 @@ To replicate the problem:
 3. Observer the output
 
 You may need to adjust paths accordingly inside `SamplePython.py`
+
+## Workaround
+
+Notice a workaround is to copy `libSkiaSharp.dll` directly to the root of the published folder.
